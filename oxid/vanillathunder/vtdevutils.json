@@ -15,8 +15,8 @@
     ],
     "versions": {
         "latest": {
-            "project": "https://github.com/vanilla-thunder/vt-devutils",
-            "url": "https://github.com/vanilla-thunder/vt-devutils/archive/master.zip",
+            "project": "https://github.com/vanilla-thunder/oxid-module-devutils",
+            "url": "https://github.com/vanilla-thunder/oxid-module-devutils/archive/oxid-v4.zip",
             "supported": [
                 "4.9",
                 "4.8",
@@ -30,8 +30,8 @@
             ]
         },
         "legacy": {
-            "project": "https://github.com/vanilla-thunder/vt-devutils",
-            "url": "https://github.com/vanilla-thunder/vt-devutils/archive/4.8.zip",
+            "project": "https://github.com/vanilla-thunder/oxid-module-devutils",
+            "url": "https://github.com/vanilla-thunder/oxid-module-devutils/archive/oxid-v4.zip",
             "supported": [
                 "4.9",
                 "4.8",
